@@ -9,4 +9,6 @@ To obtain similar results, we see that we need a very high probability that a no
 
 "Slides.pdf" summarizes the processes and results.
 
+The code can be found in the notebook "Political_US_Books.ipynb" and it is already runned, so plots and results can also be found there.
+
 The reported data "polbooks1.txt" can be found on: http://www.orgnet.com/, V. Krebs, unpublished.
