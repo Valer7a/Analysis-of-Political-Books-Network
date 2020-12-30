@@ -9,4 +9,4 @@ To obtain similar results, we see that we need a very high probability that a no
 
 Slides summarize the processes and results.
 
-The reported data can be found on: http://www.orgnet.com/, V. Krebs, unpublished.
+The reported data "polbooks1.txt" can be found on: http://www.orgnet.com/, V. Krebs, unpublished.
