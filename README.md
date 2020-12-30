@@ -1,4 +1,4 @@
-# Analysis-on-Political-Books-Network
+# Analysis-of-Political-Books-Network
 In this project it has been faced the analysis of a network in which the nodes are books regarding US Politics, sold by the online bookseller "Amazon.com". In particular, it is an heterogenous net with three types of books: conservative, liberal and neutral. These alignments were assigned separately by Mark Newman based on a reading of the descriptions and reviews of the books posted on Amazon. Edges represent frequent co-purchasing of books by the same buyers, as indicated by the "customers who bought this book also bought these other books" feature on Amazon.
 
 The aim of the project is to understand the clusters of the net and to reproduce the network itself, looking at the probability of two books being linked if they were of the same or different type. Moreover, we will compare other quantities describing the two nets as the _mean degree_, the _assortativity_ or _clustering coefficient_, trying to understand how much the constructed net is comparable to the real one. 
