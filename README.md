@@ -7,6 +7,6 @@ To reproduce the net, it has been used the Barabasi-Albert model with a little m
 
 To obtain similar results, we see that we need a very high probability that a not neutral book is connected to another one of the same type, instead a very lower one is needed for books of the opposite type. Moreover, the connection is asymmetric in the probabilities. For example, the probability of a neutral node to be connected to the other types is set as 0.4, instead the probability of a liberal or conservative node to be connected to a neutral one is 0.009.
 
-Slides summarize the processes and results.
+"Slides.pdf" summarizes the processes and results.
 
 The reported data "polbooks1.txt" can be found on: http://www.orgnet.com/, V. Krebs, unpublished.
